@@ -1,0 +1,22 @@
+[Desktop Entry]
+Categories=
+Comment[en_GB]=
+Comment=
+Encoding=UTF-8
+Exec=~/Downloads/fairytuxde-opensuse/install.sh
+GenericName[en_GB]=
+GenericName=
+Icon=~/Downloads/fairytuxde-opensuse/recources/application-x-marble.svg
+MimeType=
+Name[en_GB]=install
+Name=install
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
