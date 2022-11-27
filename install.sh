@@ -15,6 +15,7 @@ case $yn in
 	yes ) echo ok, we will proceed;
 		sudo zypper up
 		sudo zypper in konsole
+		sudo zypper in MozillaFirefox-branding-openSUSE
 sudo zypper in dolphin
 sudo zypper in MozillaThunderbird
 sudo zypper in gnome-software
